@@ -1,0 +1,23 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+
+# Intellij
+.idea/
+
+# Virtual environment
+venv/*
+
+# Other
+*.pdf
+*.xlsx
+*.csv
+*.json
+*.h5
+*.txt
+**/models
+**/model/**/
+**/results
+**/log
+**/bert
+__pycache__
