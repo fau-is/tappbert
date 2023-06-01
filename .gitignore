@@ -14,7 +14,6 @@ venv/*
 *.csv
 *.json
 *.h5
-*.txt
 **/models
 **/model/**/
 **/results
